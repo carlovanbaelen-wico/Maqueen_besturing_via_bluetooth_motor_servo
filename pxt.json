@@ -1,5 +1,6 @@
 {
     "name": "GSM_Bluetooth_Robot_&_S1_2 V2",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
